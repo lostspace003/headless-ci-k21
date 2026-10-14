@@ -1,0 +1,14 @@
+{
+  "name": "team-marketplace",
+  "description": "Our team's internal Claude Code plugins",
+  "owner": {
+    "name": "Platform Team"
+  },
+  "plugins": [
+    {
+      "name": "team-tools",
+      "source": "./plugins/team-tools",
+      "description": "Review skill and file guard"
+    }
+  ]
+}

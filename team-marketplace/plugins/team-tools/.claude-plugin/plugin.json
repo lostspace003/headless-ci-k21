@@ -1,0 +1,8 @@
+{
+  "name": "team-tools",
+  "description": "Our team's shared Claude Code set-up: a review skill and a file guard",
+  "version": "1.0.0",
+  "author": {
+    "name": "Platform Team"
+  }
+}
